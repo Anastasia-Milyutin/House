@@ -135,6 +135,7 @@ right: 50px;
 
 .appartmens_flat {
     position: relative;
+    background: var(--dark, #242B33);
 }
 h2{
     margin-left: 200px;
